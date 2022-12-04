@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
 body{
 	display: flex;
 	background: #1a1a1a;
 	height: 100vh;
 	align-items: center;
 	justify-content: center;
+    font-family: "Poppins";
 	margin: 0px; padding: 0px;
 }
 .card{
@@ -36,7 +39,7 @@ body{
 p{
 	color: white;
 	font-family: roboto, sans-serif;
-	font-size: 40px;
+	font-size: 30px;
 }
 .card:hover{
 	background-position: center;
